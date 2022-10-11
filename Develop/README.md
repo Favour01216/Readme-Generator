@@ -15,7 +15,7 @@
   ## Usage:
   it can be used by opening the integrated terminal of the index.js file then typing node index.js and going through the following prompted questions
   ## License:
-  
+  MIT
   ## Contribution:
   undefined
   ## Testing:
